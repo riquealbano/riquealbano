@@ -46,7 +46,7 @@ Olá, meu nome é "[Henrique Serafim Albano](www.linkedin.com/in/henrique-serafi
     title="Angular" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
 />      
 <img 
     align="left" 

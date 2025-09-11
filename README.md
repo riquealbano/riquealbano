@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá, meu nome é "[Henrique Serafim Albano](www.linkedin.com/in/henrique-serafim-albano-0a2b87286)", sou estudante de Análise e Desenvolvimento de Sistemas na FACENS, no 4º semestre, e técnico em Mecatrônica pela ETEC. Desde 2022 estudo programação, com experiência em JAVA, C++, JavaScript, HTML/CSS e Angular além de conhecimentos em SQL, Angular, Node.js e API's. Estou buscando aplicar meus estudos em projetos práticos e acadêmicos, com foco em desenvolvimento de software e inovação tecnológica.
+Olá, meu nome é "[Henrique Serafim Albano](www.linkedin.com/in/henrique-serafim-albano-0a2b87286)", sou estudante de Análise e Desenvolvimento de Sistemas na FACENS, no 4º semestre, e técnico em Mecatrônica pela ETEC. Desde 2022 estudo programação, com experiência em JAVA, C++, JavaScript, HTML/CSS e Angular além de conhecimentos em SQL, Angular, Python, Node.js e API's. Estou buscando aplicar meus estudos em projetos práticos e acadêmicos, com foco em desenvolvimento de software e inovação tecnológica.
 
 ---
 

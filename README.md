@@ -91,7 +91,7 @@ Olá, meu nome é "[Henrique Serafim Albano](www.linkedin.com/in/henrique-serafi
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=HenriqueAlba&show_icons=true&theme=gotham&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=riquealbano&show_icons=true&theme=gotham&include_all_commits=true&locale=pt-br" 
   />
 
 <p>
@@ -100,5 +100,5 @@ Olá, meu nome é "[Henrique Serafim Albano](www.linkedin.com/in/henrique-serafi
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueAlba&theme=gotham&layout=compact&custom_title=Tecnologias&langs_count=7" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=riquealbano&theme=gotham&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />

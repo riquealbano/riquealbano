@@ -1,8 +1,14 @@
 # 👨🏽‍💻 Henrique Albano
 
-**`Desenvolvedor FullStack`**
+**`IT | Cloud & Infrastructure`**
 
-Olá, meu nome é "[Henrique Serafim Albano](www.linkedin.com/in/henrique-serafim-albano-0a2b87286)", sou estudante de Análise e Desenvolvimento de Sistemas na FACENS, 4º semestre, e técnico em Mecatrônica pela ETEC. Desde 2022 estudo programação, com experiência em JAVA, C++, JavaScript, HTML/CSS e framework como Angular além de conhecimentos em MySQL, React, Python, Node.js e API's. Estou buscando aplicar meus estudos em projetos práticos e acadêmicos, com foco em desenvolvimento de software e inovação tecnológica.
+Olá, meu nome é [Henrique Serafim Albano](www.linkedin.com/in/henrique-serafim-albano-0a2b87286), sou Assistente de TI Júnior na Danieli e estudante de Análise e Desenvolvimento de Sistemas na FACENS.
+
+Atualmente, atuo com suporte e infraestrutura de TI, troubleshooting de hardware e software, administração de ativos, redes, Active Directory, Microsoft 365 e ambientes Azure, além da interação com equipes e projetos internacionais.
+
+Tenho experiência com desenvolvimento de software e venho utilizando essa base para ampliar meus conhecimentos em **Cloud Computing, infraestrutura, automação e DevOps**, com foco no ecossistema **AWS**.
+
+Meu objetivo é construir uma carreira cada vez mais voltada para **Cloud & Infrastructure**, unindo desenvolvimento, automação e administração de ambientes para criar soluções escaláveis, seguras e eficientes.
 
 ---
 
@@ -42,8 +48,8 @@ Olá, meu nome é "[Henrique Serafim Albano](www.linkedin.com/in/henrique-serafi
 />
 <img 
     align="left" 
-    alt="Angular"
-    title="Angular" 
+    alt="Node.js"
+    title="Node.js" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"

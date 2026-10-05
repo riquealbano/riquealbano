@@ -2,9 +2,9 @@
 
 **`IT | Cloud & Infrastructure`**
 
-Olá, meu nome é [Henrique Serafim Albano](www.linkedin.com/in/henrique-serafim-albano-0a2b87286), sou Assistente de TI Júnior na Danieli e estudante de Análise e Desenvolvimento de Sistemas na FACENS.
+Olá, meu nome é [Henrique Serafim Albano](www.linkedin.com/in/henrique-serafim-albano-0a2b87286), sou Assistente de TI Júnior na Danieli e sou formado técnico em Análise e Desenvolvimento de Sistemas pela FACENS.
 
-Atualmente, atuo com suporte e infraestrutura de TI, troubleshooting de hardware e software, administração de ativos, redes, Active Directory, Microsoft 365 e ambientes Azure, além da interação com equipes e projetos internacionais.
+Atualmente, atuo solo responsável pelo controle de ICT na Danieli do Brasil com suporte e infraestrutura de TI, troubleshooting de hardware e software, administração de ativos e licensas, redes, Active Directory e ambientes Azure, além da interação com equipes e projetos internacionais. Atuo com times de ICT dos EUA, Europa e Asia diáriamente.
 
 Tenho experiência com desenvolvimento de software e venho utilizando essa base para ampliar meus conhecimentos em **Cloud Computing, infraestrutura, automação e DevOps**, com foco no ecossistema **AWS**.
 
